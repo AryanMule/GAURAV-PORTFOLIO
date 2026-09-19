@@ -45,7 +45,7 @@ export const personalData = {
     },
     linkedin: {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/gaurav-patil",
+      url: "https://www.linkedin.com/in/gaurav-patil-69825b2b4/",
       handle: "/gaurav-patil",
       label: "Connect on LinkedIn",
     },
